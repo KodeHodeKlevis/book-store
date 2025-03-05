@@ -6,6 +6,7 @@ import FavoritesPage from "./pages/FavoritesPage.jsx";
 import BookDetail from "./components/BookDetail.jsx";
 import CategoryMenu from "./components/CategoryMenu.jsx";
 import "./styles/styles.css";
+import "./public/index.html";
 
 const App = () => {
   return (
